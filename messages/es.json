@@ -1,0 +1,133 @@
+{
+  "chapterControl": {
+    "ch1": "Conóceme",
+    "ch2": "Tecnologías",
+    "ch3": "Proyectos",
+    "ch4": "Contacto"
+  },
+  "layout": {
+    "verticalStepper": {
+        "labelch1": "Capítulo - Conóceme",
+        "descriptionch1": "Esto es lo que me apasiona",
+        "buttonLabelch1": "Introducción",
+        "hrefch1": "/{locale}/",
+
+        "labelch2": "Capítulo - Descubre lo que puedo hacer", 
+        "descriptionch2": "Conoce las herramientas que uso y las tecnologías que domino",
+        "buttonLabelch2": "Ver tecnologías",
+        "hrefch2": "/{locale}/techstack",
+
+        "labelch3": "Capítulo - En el trabajo",
+        "descriptionch3": "Descubre en qué he estado trabajando y lo que he logrado hasta ahora",
+        "buttonLabelch3": "Explorar proyectos",
+        "hrefch3": "/{locale}/projects",
+
+        "labelch4": "Capítulo - Hablemos",
+        "descriptionch4": "Siempre estoy en busca de nuevos desafíos, estoy dispuesto a explorar nuevas ideas",
+        "buttonLabelch4": "Contáctame",
+        "hrefch4": "/{locale}/contact"
+    },
+    "appbar": {
+      "languages": {
+        "en": "English",
+        "es": "Español"
+      },
+      "downloadResumeLabel": "Ver CV"
+    }
+  },
+  "home": {
+    "metadata": {
+      "title": "Conóceme",
+      "description": "Esto es lo que hago, un poco sobre mí",
+      "keywords": "desarrollador, ingeniero de software, desarrollador web, desarrollador full-stack, figma, react, vue, node, express, nest, mysql, sql server, javascript, typescript, react native, santiago, república dominicana, adwil castillo, adwil, castillo"
+   },
+    "title": "Hola, soy Adwil Castillo",
+    "subtitle": "Ingeniero de software de Santiago, República Dominicana", 
+    "p1": "Ingeniero de software amigable y profesional con pasión por el desarrollo y diseño web. Siempre estoy buscando aprender nuevas tecnologías y mejorar mis habilidades, por lo que estoy abierto a nuevas oportunidades y desafíos. Actualmente trabajo como desarrollador full-stack utilizando una amplia gama de tecnologías, desde desarrollo web utilizando JavaScript, TypeScript, React.js y Vue.js, hasta desarrollo móvil utilizando React Native. También he trabajado con Node.js, Express.js y Nest.js para el desarrollo de backend, y bases de datos SQL como MySQL y SQL Server.",
+    "p2": "Soy una persona proactiva y autónoma que disfruta trabajar en equipo y colaborar con otros para lograr objetivos comunes. Me interesa encontrar soluciones innovadoras para la resolución de problemas y mejora de procesos que impulsen mi crecimiento personal y profesional.",
+    "connectLabel": "Únete a mi red"
+  },
+  "techstack": {
+    "metadata": {
+      "title": "Lenguajes y herramientas",
+      "description": "Descubre lo que puedo hacer",
+      "keywords": "herramientas, desarrollo de software, figma, react, vue, node, express, nest, mysql, sql server, javascript, typescript, react native"
+    },
+    "title": "Lenguajes y herramientas",
+    "subtitle": "Esto es con lo que puedo trabajar",
+    "newTechLabel": "Nuevo",
+    "webdev": {
+      "title": "Desarrollo Web",
+      "subtitle": "Frameworks y Lenguajes Frontend"
+    },
+    "mobdev": {
+      "title": "Desarrollo Móvil",
+      "subtitle": "Frameworks Frontend"
+    },
+    "apidev": {
+      "title": "Desarrollo de API",
+      "subtitle": "Frameworks y Tecnologías Backend"
+    },
+    "database": {
+      "title": "Base de Datos",
+      "subtitle": "Sistemas de Bases de Datos Relacionales y ORM"
+    },
+    "design": {
+      "title": "Diseño y Prototipado",
+      "subtitle": "Herramientas de Diseño"
+    },
+    "other": {
+      "title": "Otros",
+      "subtitle": "Herramientas de Colaboración y Flujo de Trabajo"
+    }
+  },
+  "projects": {
+    "metadata": {
+      "title": "Trayectoria profesional",
+      "description": "Sigue mi trabajo",
+      "keywords": "proyectos, trabajo, empresa constructora, remodelación de casas, sitio web, servicios, ocsa, proveedor de servicios, plataforma, creal, constructora real, lreal, loto real, lotería, rediseño, experiencia de usuario, interacción con el cliente, solicitudes de empleo"
+    },
+    "title": "Trayectoria profesional",
+    "subtitle": "Sigue mi trabajo",
+    "ongoingLabel": " - Presente",
+
+    "ocsa": {
+      "title": "OCSA PROServices",
+      "subtitle": "Sitio web del proveedor de servicios",
+      "summary": "Una plataforma que muestra los servicios y proyectos de la empresa, ofreciendo a los clientes una manera fácil de interactuar con ellos."
+    },
+    "lrscreens": {
+      "title": "Gestor de Pantallas",
+      "subtitle": "Sistema de gestión de contenido",
+      "summary": "Una plataforma para gestionar de forma remota el contenido en múltiples pantallas ubicadas en diferentes lugares mediante comunicación en tiempo real."
+    },
+    "creal": {
+    "title": "Constructora Real",
+      "subtitle": "Sitio web de la empresa",
+      "summary": "Una plataforma para mostrar los proyectos de la empresa e incrementar su presencia en línea y la interacción con los clientes."
+    },
+    "lreal": {
+      "title": "Loto Real",
+      "subtitle": "Sitio web de la empresa",
+      "summary": "Un rediseño del sitio web de la empresa para mejorar la experiencia del usuario, aumentar la interacción con los clientes y permitir solicitudes de empleo."
+    }
+  },
+  "contact": {
+    "metadata": {
+      "title": "Ponte en contacto",
+      "description": "Siempre estoy buscando nuevas oportunidades y desafíos",
+      "keywords": "contacto, ponte en contacto, linkedin, whatsapp, correo electrónico, oportunidades, desafíos, desarrollador de software, desarrollador web, desarrollador full-stack, santiago, república dominicana, adwil castillo, adwil, castillo"
+    },
+    "title": "Conversemos",
+    "subtitle": "Siempre estoy buscando nuevas oportunidades y desafíos",
+    "emailSub": "Ponte en contacto",
+    "linkedinSub": "Conectemos",
+    "whatsappSub": "Escríbeme"
+ },
+  "notFound": {
+    "title": "Página no encontrada",
+    "subtitle": "Lo sentimos, no pudimos encontrar la página que estás buscando.",
+    "buttonLabel": "Volver"
+  }
+  
+}

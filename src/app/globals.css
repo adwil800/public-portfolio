@@ -1,0 +1,75 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #0C0D0F;
+  --foreground: #BCC0C4;
+  --primary: #0C0D0F;
+  --secondary: #191B1F;
+  --mui-primary: #1976d2;
+  --mui-primary-dark: rgba(25, 118, 210, 0.5);
+  --accent: #FF9800;
+  --line-color: #fff ;
+}
+
+
+body {
+  color: var(--foreground);
+  background: var(--background); 
+}
+
+body * {
+  font-family: var(--font-inconsolata) !important;
+  letter-spacing: 0.03em !important;
+}
+ 
+
+@layer utilities {
+  
+  .line-height-1 {
+    line-height: 1.1 !important;
+  }
+
+}
+ 
+.max-site-width {
+  max-width: 3840px;
+  margin: auto;
+}
+
+.vertical-timeline {
+
+  max-width: 2000px !important;
+
+}
+.tool-item {
+  display: flex;
+  border: 1px solid var(--mui-primary-dark);
+  border-radius: 5px;
+  padding: 6px 10px;
+  align-items: center;
+  color: white;
+  background-color: var(--primary);
+  font-size: 0.875rem;
+}
+
+.MuiTypography-root {
+  color: white !important;
+}
+
+::-webkit-scrollbar {
+  width: 7px; 
+}
+
+::-webkit-scrollbar-track {
+  background: #24262c; 
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #bcc0c441; 
+}
+
+::-webkit-scrollbar-button {
+  display: none !important; 
+}

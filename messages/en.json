@@ -1,0 +1,133 @@
+{
+  "chapterControl": {
+    "ch1": "Get to know me",
+    "ch2": "Tech stack",
+    "ch3": "Projects",
+    "ch4": "Reach out"
+  },
+  "layout": {
+    "verticalStepper": {
+        "labelch1": "Chapter - Get to know me",
+        "descriptionch1": "This is what I do and what I'm passionate about",
+        "buttonLabelch1": "Introduction",
+        "hrefch1": "/{locale}/",
+
+        "labelch2": "Chapter - Find out what I can do", 
+        "descriptionch2": "Check out the set of tools I use to build amazing things, and the technologies I have mastered so far",
+        "buttonLabelch2": "View tech stack",
+        "hrefch2": "/{locale}/techstack",
+
+        "labelch3": "Chapter - On the job",
+        "descriptionch3": "Discover what I have been working on lately, and what I have accomplished so far",
+        "buttonLabelch3": "Explore projects",
+        "hrefch3": "/{locale}/projects",
+
+        "labelch4": "Chapter - Get in touch",
+        "descriptionch4": "I'm always looking for new challenges, I would love to hear from you",
+        "buttonLabelch4": "Reach out",
+        "hrefch4": "/{locale}/contact"
+
+    },
+    "appbar": {
+      "languages": {
+        "en": "English",
+        "es": "Español"
+      },
+      "downloadResumeLabel": "View resume"
+    }
+  },
+  "home": {
+    "metadata": {
+      "title": "Get to know me",
+      "description": "This is what I do, a little bit about me",
+      "keywords": "developer, software engineer, web developer, full-stack developer, figma, react, vue, node, express, nest, mysql, sql server, javascript, typescript, react native, santiago, dominican republic, adwil castillo, adwil, castillo"
+    },
+    "title": "Hello, I'm Adwil Castillo",
+    "subtitle": "Software Engineer based in Santiago, Dominican Republic", 
+    "p1": "Friendly and professional software engineer with a passion for web development and design. I'm always looking to learn new technologies and improve my skills, so I'm open to new opportunities and challenges. I'm currently working as a full-stack developer using a wide range of technologies, from web development using JavaScript, TypeScript, React.js, and Vue.js, to mobile development using React Native. I've also worked with Node.js, Express.js, and Nest.js for backend development, and SQL databases such as MySQL and SQL Server.",
+    "p2": "I'm a proactive and self-motivated person who enjoys working in a team and collaborating with others to achieve common goals. I'm also a creative thinker who loves to solve problems and come up with innovative solutions that allow me to grow both personally and professionally. If you're looking for a dedicated software engineer to join your team, I'd love to hear from you!",
+    "connectLabel": "Let's connect"
+  },
+  "techstack": {
+    "metadata": {
+      "title": "Languages and tools",
+      "description": "Find out what I can do",
+      "keywords": "tools, software development, figma, react, vue, node, express, nest, mysql, sql server, javascript, typescript, react native"
+    },
+    "title": "Languages and tools",
+    "subtitle": "Here's what I can work with", 
+    "newTechLabel": "New",
+    "webdev": {
+      "title": "Web Development",
+      "subtitle": "Frontend Frameworks and Languages"
+    },
+    "mobdev": {
+      "title": "Mobile Development",
+      "subtitle": "Frontend Frameworks"
+    },
+    "apidev": {
+      "title": "API Development",
+      "subtitle": "Backend Frameworks and Technologies"
+    },
+    "database": {
+      "title": "Database",
+      "subtitle": "Relational Database Systems and ORM"
+    },
+    "design": {
+      "title": "Design and Prototyping",
+      "subtitle": "Design Tools"
+    },
+    "other": {
+      "title": "Others",
+      "subtitle": "Collaboration and Workflow Tools"
+    }
+  },
+  "projects": {
+    "metadata": {
+      "title": "Professional journey",
+      "description": "Follow my work",
+      "keywords": "projects, work, construction company, house remodeling, website, services, ocsa, service provider, platform, creal, constructora real, lreal, loto real, lottery, redesign, user experience, customer engagement, job applications"
+    },
+    "title": "Professional journey",
+    "subtitle": "Follow my work",
+    "ongoingLabel": " - Present",
+    "ocsa": {
+      "title": "OCSA PROServices",
+      "subtitle": "Service provider website",
+      "summary": "A platform showcasing the company's services and projects, offering customers an easy way to engage with them."
+    },
+    "lrscreens": {
+      "title": "Screen handler",
+      "subtitle": "Content management system",
+      "summary": "A platform for remotely managing content across multiple screens in distributed locations using real-time communication."
+    },
+    "creal": {
+      "title": "Constructora Real",
+      "subtitle": "Construction company website",
+      "summary": "A platform to showcase the company's projects and increase their online presence and customer engagement."
+    },
+    "lreal": {
+      "title": "Loto Real",
+      "subtitle": "Lottery company website",
+      "summary": "A redesign of the company's website to improve user experience, increase customer engagement, and enable job applications."
+    }
+  },
+  "contact": {
+    "metadata": {
+      "title": "Get in touch",
+      "description": "I'm always looking for new opportunities and challenges",
+      "keywords": "contact, reach out, linkedin, whatsapp, email, opportunities, challenges, software developer, web developer, full-stack developer, santiago, dominican republic, adwil castillo, adwil, castillo"
+    },
+    "title": "Let's have a talk",
+    "subtitle": "I'm always looking for new opportunities and challenges",
+    "emailSub": "Reach out",
+    "linkedinSub": "Let's connect",
+    "whatsappSub": "Let's chat"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "subtitle": "Sorry, we couldn't find the page you're looking for.",
+    "buttonLabel": "Go back"
+  }
+  
+}
